@@ -7,7 +7,7 @@ Users can add tasks, set due dates, and delete items. Tasks update instantly wit
 
 ## 🚀 Live Demo
 
-👉 **[Click here to open the Live Demo](https://sunitha431.github.io/To_do_list/)**
+👉 **[Live Demo](https://sunitha431.github.io/To_do_list/)**
 
 ---
 
